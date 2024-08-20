@@ -84,6 +84,20 @@ tested as a group.
 >Improves Confidence in the System
 >Reduces Risks in Later Stages
 
+System testing is a phase in the software testing lifecycle where the entire integrated system is tested as a whole. This testing evaluates the system's compliance with its specified requirements, ensuring that all components work together as expected.
+
+Importance of System Testing
+>Ensures Integration Success: It verifies that different modules or components work together as intended after integration.
+>Detects Issues Early: By testing the system before it's deployed, defects can be identified and fixed before they reach the production stage.
+>Validates Requirements: It ensures that the system meets all specified requirements, delivering the expected functionality to the end users.
+
+Acceptance Testing:Acceptance Testing is the final phase of testing before a software product is released to end users.
+
+Importance of Acceptance Testing
+
+>Validation of Requirements: It ensures that the software meets the agreed-upon requirements and works as expected in real-world scenarios
+>User Satisfaction: By involving end users or clients in the testing process, it helps confirm that the product will fulfill their needs and expectations.
+>Risk Reduction: Acceptance testing helps identify any remaining issues that might have been missed in earlier testing phases, reducing the risk of costly failures post-deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
